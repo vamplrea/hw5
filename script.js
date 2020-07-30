@@ -15,10 +15,10 @@ function isBlank(inputValue){
 
 var error_check = 0;
 function handleClicks() {
-  document.getElementById('rowStart').value = -50;
-  document.getElementById('rowEnd').value = 50;
-  document.getElementById('colStart').value = -50;
-  document.getElementById('colEnd').value = 50;
+  //document.getElementById('rowStart').value = -50;
+  //document.getElementById('rowEnd').value = 50;
+  //document.getElementById('colStart').value = -50;
+  //document.getElementById('colEnd').value = 50;
 
   $('#btnSubmit').click(function(event) {
 
